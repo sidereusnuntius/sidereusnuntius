@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 
 ####  Competências
 <div style = "display: inline_block"><br>
+    <img alt = "" src ="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324">
     <img alt = "" src ="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
     <img alt = "" src ="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">  
     <img alt = "" src ="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"><br>
@@ -25,7 +26,6 @@ Here are some ideas to get you started:
 #### Coisas que estou aprendendo
 
 <div style = "display: inline_block"><br>
-    <img alt = "" src ="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324">
     <img alt = "" src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 </div>  
     
