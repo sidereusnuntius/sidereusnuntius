@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ... -->
-[![My Skills](https://skillicons.dev/icons?i=rust,c,bash,git,python,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rust,c,linux)](https://skillicons.dev)
     
   <!--
 - 👯 I’m looking to collaborate on ...
