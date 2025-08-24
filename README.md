@@ -1,4 +1,4 @@
-Mainly interested in systems programming, web, networks, security, functional programming and type theory. I'm still not very knowledgeable in some of these areas, but my goal is to understand them.
+Mainly interested in systems programming, networks, security, functional programming and type theory. I'm still not very knowledgeable in some of these areas, but my goal is to understand them.
 
 <!--
 **Fn1033/Fn1033** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
